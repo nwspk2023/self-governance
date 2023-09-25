@@ -1,6 +1,7 @@
-| Representative | 2023 Cohort |
+| 2023 Fellowship Candidates | |
 | ----- | ----- |
-| Name | [name] |
+| Representative | [name] |
 | Email | [email] |
 | Account Number | [account number] |
 | Sort Code | [sort code] |
+| Policies | [URL] |
